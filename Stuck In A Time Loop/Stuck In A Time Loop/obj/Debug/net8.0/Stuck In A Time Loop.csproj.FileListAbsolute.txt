@@ -1,0 +1,14 @@
+C:\Users\erikb\Desktop\Work\Code\VisualStudio\Kattis\Stuck In A Time Loop\Stuck In A Time Loop\bin\Debug\net8.0\Stuck In A Time Loop.exe
+C:\Users\erikb\Desktop\Work\Code\VisualStudio\Kattis\Stuck In A Time Loop\Stuck In A Time Loop\bin\Debug\net8.0\Stuck In A Time Loop.deps.json
+C:\Users\erikb\Desktop\Work\Code\VisualStudio\Kattis\Stuck In A Time Loop\Stuck In A Time Loop\bin\Debug\net8.0\Stuck In A Time Loop.runtimeconfig.json
+C:\Users\erikb\Desktop\Work\Code\VisualStudio\Kattis\Stuck In A Time Loop\Stuck In A Time Loop\bin\Debug\net8.0\Stuck In A Time Loop.dll
+C:\Users\erikb\Desktop\Work\Code\VisualStudio\Kattis\Stuck In A Time Loop\Stuck In A Time Loop\bin\Debug\net8.0\Stuck In A Time Loop.pdb
+C:\Users\erikb\Desktop\Work\Code\VisualStudio\Kattis\Stuck In A Time Loop\Stuck In A Time Loop\obj\Debug\net8.0\Stuck In A Time Loop.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\erikb\Desktop\Work\Code\VisualStudio\Kattis\Stuck In A Time Loop\Stuck In A Time Loop\obj\Debug\net8.0\Stuck In A Time Loop.AssemblyInfoInputs.cache
+C:\Users\erikb\Desktop\Work\Code\VisualStudio\Kattis\Stuck In A Time Loop\Stuck In A Time Loop\obj\Debug\net8.0\Stuck In A Time Loop.AssemblyInfo.cs
+C:\Users\erikb\Desktop\Work\Code\VisualStudio\Kattis\Stuck In A Time Loop\Stuck In A Time Loop\obj\Debug\net8.0\Stuck In A Time Loop.csproj.CoreCompileInputs.cache
+C:\Users\erikb\Desktop\Work\Code\VisualStudio\Kattis\Stuck In A Time Loop\Stuck In A Time Loop\obj\Debug\net8.0\Stuck In A Time Loop.dll
+C:\Users\erikb\Desktop\Work\Code\VisualStudio\Kattis\Stuck In A Time Loop\Stuck In A Time Loop\obj\Debug\net8.0\refint\Stuck In A Time Loop.dll
+C:\Users\erikb\Desktop\Work\Code\VisualStudio\Kattis\Stuck In A Time Loop\Stuck In A Time Loop\obj\Debug\net8.0\Stuck In A Time Loop.pdb
+C:\Users\erikb\Desktop\Work\Code\VisualStudio\Kattis\Stuck In A Time Loop\Stuck In A Time Loop\obj\Debug\net8.0\Stuck In A Time Loop.genruntimeconfig.cache
+C:\Users\erikb\Desktop\Work\Code\VisualStudio\Kattis\Stuck In A Time Loop\Stuck In A Time Loop\obj\Debug\net8.0\ref\Stuck In A Time Loop.dll
